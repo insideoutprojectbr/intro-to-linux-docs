@@ -12,7 +12,18 @@ Para instalar em dual boot, é necessário que o seu computador tenha espaço li
 
 ## Windows
 
+1. Clique com o botão direito do mouse sobre o novo menu Iniciar. No menu que abriu, escolha a opção “Gerenciamento de Disco”.
 
+
+2. Na janela que se abriu, você vê uma tela com informações sobre disco rígido ou SSD instalado em seu PC. Clique com o botão direito do mouse sobre a partição que deve ser redimensionada e então selecione a opção “Diminuir volume”.
+
+
+3. Na tela que se abriu, analise as informações e defina quanto será reduzido desta partição. Clique em “Diminuir” para confirmar e aguarde até que todo o processo seja concluído.
+
+
+4. Para aumentar uma partição, clique sobre ela com o botão direito do mouse e então vá em “Estender volume”. Então, é só definir quanto será aumentado e seguir o procedimento conforme exposto na tela de seu computador.
+
+Fonte: [http://canaltech.com.br/tutorial/windows/como-redimensionar-particoes-no-windows-10/(http://canaltech.com.br/tutorial/windows/como-redimensionar-particoes-no-windows-10/)
 
 
 ## Mac
