@@ -1,0 +1,244 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Intro to Linux\n\n\nBem-vinda! Esta \u00e9 a documenta\u00e7\u00e3o do workshop de Introdu\u00e7\u00e3o ao Linux. Aqui est\u00e1 o manual de instala\u00e7\u00e3o do Linux dependendo da forma que voc\u00ea deseja instalar: virtuabox, dual boot ou nativo. \n\n\nMaterial necess\u00e1rio\n\n\nVoc\u00ea vai precisar de um computador onde queira fazer a instala\u00e7\u00e3o e tamb\u00e9m um pendrive que voc\u00ea n\u00e3o se importe em formatar. Este pen drive \u00e9 necess\u00e1rio principalmente nos casos de instala\u00e7\u00e3o em dual boot e nativa. \u00c9 nele que faremos o Live USB Stick.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#intro-to-linux", 
+            "text": "Bem-vinda! Esta \u00e9 a documenta\u00e7\u00e3o do workshop de Introdu\u00e7\u00e3o ao Linux. Aqui est\u00e1 o manual de instala\u00e7\u00e3o do Linux dependendo da forma que voc\u00ea deseja instalar: virtuabox, dual boot ou nativo.", 
+            "title": "Intro to Linux"
+        }, 
+        {
+            "location": "/#material-necessario", 
+            "text": "Voc\u00ea vai precisar de um computador onde queira fazer a instala\u00e7\u00e3o e tamb\u00e9m um pendrive que voc\u00ea n\u00e3o se importe em formatar. Este pen drive \u00e9 necess\u00e1rio principalmente nos casos de instala\u00e7\u00e3o em dual boot e nativa. \u00c9 nele que faremos o Live USB Stick.", 
+            "title": "Material necess\u00e1rio"
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Dual Boot/", 
+            "text": "Instala\u00e7\u00e3o em Dual Boot\n\n\nO que \u00e9 o Dual Boot?\n\n\nA instala\u00e7\u00e3o nativa permite que voc\u00ea mantenha dois sistemas operacionais no seu computador, assim voc\u00ea pode escolher qual voc\u00ea quer utilizar no momento de boot do computador, ou seja, na hora que o computador est\u00e1 ligando.\n\n\n\u00c9 uma boa op\u00e7\u00e3o para quem est\u00e1 em transi\u00e7\u00e3o para o GNU/Linux, mas n\u00e3o quer deixar de lado o Windows e as aplica\u00e7\u00f5es que costuma utilizar.\n\n\nComo come\u00e7ar\n\n\nPara instalar em dual boot, \u00e9 necess\u00e1rio que o seu computador tenha espa\u00e7o livre em HD para acomodar o GNU/Linux. Verifique com a distro desejada qual \u00e9 o espa\u00e7o necess\u00e1rio para esta. Geralmente, elas n\u00e3o precisam de muito.\n\n\nWindows\n\n\n\n\n\n\nClique com o bot\u00e3o direito do mouse sobre o novo menu Iniciar. No menu que abriu, escolha a op\u00e7\u00e3o \u201cGerenciamento de Disco\u201d.\n\n\n\n\n\n\nNa janela que se abriu, voc\u00ea v\u00ea uma tela com informa\u00e7\u00f5es sobre disco r\u00edgido ou SSD instalado em seu PC. Clique com o bot\u00e3o direito do mouse sobre a parti\u00e7\u00e3o que deve ser redimensionada e ent\u00e3o selecione a op\u00e7\u00e3o \u201cDiminuir volume\u201d.\n\n\n\n\n\n\nNa tela que se abriu, analise as informa\u00e7\u00f5es e defina quanto ser\u00e1 reduzido desta parti\u00e7\u00e3o. Clique em \u201cDiminuir\u201d para confirmar e aguarde at\u00e9 que todo o processo seja conclu\u00eddo.\n\n\n\n\n\n\nPara aumentar uma parti\u00e7\u00e3o, clique sobre ela com o bot\u00e3o direito do mouse e ent\u00e3o v\u00e1 em \u201cEstender volume\u201d. Ent\u00e3o, \u00e9 s\u00f3 definir quanto ser\u00e1 aumentado e seguir o procedimento conforme exposto na tela de seu computador.\n\n\n\n\n\n\nFonte: [http://canaltech.com.br/tutorial/windows/como-redimensionar-particoes-no-windows-10/(http://canaltech.com.br/tutorial/windows/como-redimensionar-particoes-no-windows-10/)\n\n\nMac\n\n\nPara instalar uma distribui\u00e7\u00e3o GNU/Linux em Dual Boot com o Mac, voc\u00ea deve criar uma parti\u00e7\u00e3o no seu computador. \n\n\n\n\n\n\nCrie uma parti\u00e7\u00e3o utilizando a aplica\u00e7\u00e3o Disk Utility. Ela deve ter no m\u00ednimo 30 GB.\n\n\n\n\n\n\nInsira o Live USB Stick e reinicie o seu Mac.\n\n\n\n\n\n\nSiga para a se\u00e7\u00e3o \"Instalando o Ubuntu\" ou \"Instalando o Fedora\"", 
+            "title": "Instalac\u0327a\u0303o Dual Boot"
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Dual Boot/#instalacao-em-dual-boot", 
+            "text": "", 
+            "title": "Instala\u00e7\u00e3o em Dual Boot"
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Dual Boot/#o-que-e-o-dual-boot", 
+            "text": "A instala\u00e7\u00e3o nativa permite que voc\u00ea mantenha dois sistemas operacionais no seu computador, assim voc\u00ea pode escolher qual voc\u00ea quer utilizar no momento de boot do computador, ou seja, na hora que o computador est\u00e1 ligando.  \u00c9 uma boa op\u00e7\u00e3o para quem est\u00e1 em transi\u00e7\u00e3o para o GNU/Linux, mas n\u00e3o quer deixar de lado o Windows e as aplica\u00e7\u00f5es que costuma utilizar.", 
+            "title": "O que \u00e9 o Dual Boot?"
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Dual Boot/#como-comecar", 
+            "text": "Para instalar em dual boot, \u00e9 necess\u00e1rio que o seu computador tenha espa\u00e7o livre em HD para acomodar o GNU/Linux. Verifique com a distro desejada qual \u00e9 o espa\u00e7o necess\u00e1rio para esta. Geralmente, elas n\u00e3o precisam de muito.", 
+            "title": "Como come\u00e7ar"
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Dual Boot/#windows", 
+            "text": "Clique com o bot\u00e3o direito do mouse sobre o novo menu Iniciar. No menu que abriu, escolha a op\u00e7\u00e3o \u201cGerenciamento de Disco\u201d.    Na janela que se abriu, voc\u00ea v\u00ea uma tela com informa\u00e7\u00f5es sobre disco r\u00edgido ou SSD instalado em seu PC. Clique com o bot\u00e3o direito do mouse sobre a parti\u00e7\u00e3o que deve ser redimensionada e ent\u00e3o selecione a op\u00e7\u00e3o \u201cDiminuir volume\u201d.    Na tela que se abriu, analise as informa\u00e7\u00f5es e defina quanto ser\u00e1 reduzido desta parti\u00e7\u00e3o. Clique em \u201cDiminuir\u201d para confirmar e aguarde at\u00e9 que todo o processo seja conclu\u00eddo.    Para aumentar uma parti\u00e7\u00e3o, clique sobre ela com o bot\u00e3o direito do mouse e ent\u00e3o v\u00e1 em \u201cEstender volume\u201d. Ent\u00e3o, \u00e9 s\u00f3 definir quanto ser\u00e1 aumentado e seguir o procedimento conforme exposto na tela de seu computador.    Fonte: [http://canaltech.com.br/tutorial/windows/como-redimensionar-particoes-no-windows-10/(http://canaltech.com.br/tutorial/windows/como-redimensionar-particoes-no-windows-10/)", 
+            "title": "Windows"
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Dual Boot/#mac", 
+            "text": "Para instalar uma distribui\u00e7\u00e3o GNU/Linux em Dual Boot com o Mac, voc\u00ea deve criar uma parti\u00e7\u00e3o no seu computador.     Crie uma parti\u00e7\u00e3o utilizando a aplica\u00e7\u00e3o Disk Utility. Ela deve ter no m\u00ednimo 30 GB.    Insira o Live USB Stick e reinicie o seu Mac.    Siga para a se\u00e7\u00e3o \"Instalando o Ubuntu\" ou \"Instalando o Fedora\"", 
+            "title": "Mac"
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Nativa/", 
+            "text": "Instala\u00e7\u00e3o Nativa\n\n\nO que \u00e9 a instala\u00e7\u00e3o nativa?\n\n\nCome\u00e7ando\n\n\n\n\n\n\nFa\u00e7a um backup dos seus arquivos importantes. Seu HD ser\u00e1 totalmente formatado para dar lugar \u00e0 uma distribui\u00e7\u00e3o GNU/Linux.\n\n\n\n\n\n\nBaixe a distribui\u00e7\u00e3o desejada: \nUbuntu\n ou \nFedora\n e crie um Live USB Stick (ver se\u00e7\u00e3o \"Live USB Stick\").\n\n\n\n\n\n\nInsira o USB Stick em uma entrada USB e reinicie o seu computador.\n\n\n\n\n\n\nSiga para a se\u00e7\u00e3o \"Instalando o Fedora\" ou \"Instalando o Ubuntu\".", 
+            "title": "Instalac\u0327a\u0303o Nativa"
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Nativa/#instalacao-nativa", 
+            "text": "", 
+            "title": "Instala\u00e7\u00e3o Nativa"
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Nativa/#o-que-e-a-instalacao-nativa", 
+            "text": "", 
+            "title": "O que \u00e9 a instala\u00e7\u00e3o nativa?"
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Nativa/#comecando", 
+            "text": "Fa\u00e7a um backup dos seus arquivos importantes. Seu HD ser\u00e1 totalmente formatado para dar lugar \u00e0 uma distribui\u00e7\u00e3o GNU/Linux.    Baixe a distribui\u00e7\u00e3o desejada:  Ubuntu  ou  Fedora  e crie um Live USB Stick (ver se\u00e7\u00e3o \"Live USB Stick\").    Insira o USB Stick em uma entrada USB e reinicie o seu computador.    Siga para a se\u00e7\u00e3o \"Instalando o Fedora\" ou \"Instalando o Ubuntu\".", 
+            "title": "Come\u00e7ando"
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Virtual Box/", 
+            "text": "Instala\u00e7\u00e3o em VirtualBox\n\n\nO qu\u00ea \u00e9 o Virtual Box?\n\n\nO VirtualBox \u00e9 uma ferramenta de virtualiza\u00e7\u00e3o. Ela permite que voc\u00ea rode uma m\u00e1quina virtual dentro do seu sistema operacional. Imagine que voc\u00ea quer rodar o Linux dentro do seu Windows! \u00c9 poss\u00edvel com o VirtualBox! O Linux pode funcionar dentro de uma janela do Windows, assim como os seus outros programas :)\n\u00c9 uma boa op\u00e7\u00e3o para quem quer conhecer o Linux sem fazer muitas altera\u00e7\u00f5es no seu computador. Caso mude de id\u00e9ia, a m\u00e1quina virtual com o Linux pode ser desinstalada assim como outros programas no seu computador.\n\n\nComo come\u00e7ar\n\n\nBaixe o Virtual Box em \nhttps://www.virtualbox.org/\n e inicie-o.\nO pr\u00f3ximo passo \u00e9 conseguir uma imagem da distribui\u00e7\u00e3o desejada. Voc\u00ea pode baixar a imagem .iso no site da distribui\u00e7\u00e3o.\n\n\nCriando uma m\u00e1quina virtual\n\n\nNo VirtualBox, escolha a op\u00e7\u00e3o \"New\"\n\n\n\n\nEscreva um nome para a sua m\u00e1quina virtual. Tamb\u00e9m escolha um tipo e uma vers\u00e3o.\n\n\n\n\nEscolha o tamanho da mem\u00f3ria. Nesta tela, vamos deixar no padr\u00e3o.\n\n\n\n\nAqui, escolha \"Create a virtual hard drive now\".\n\n\n\n\nSelecione a op\u00e7\u00e3o \"VDI\".\n\n\n\n\nSelecione \"Dinamically allocated\".\n\n\n\n\nTamanho do disco. Deixaremos no padr\u00e3o sugerido pelo VirtualBox.\n\n\n\n\nAgora, clique com o bot\u00e3o direito no nome da sua m\u00e1quina virtual recentemente criada e v\u00e1 em Settings-\nStorage. Clique no CDzinho do lado esquerdo.\n\n\n\n\nAgora clique no CDzinho do lado direito. Se voc\u00ea tiver usando uma ISO baixada, selecione a primeira op\u00e7\u00e3o e selecione o seu arquivo. Se voc\u00ea estiver utilizando um LiveCD, selecione a segunda op\u00e7\u00e3o e n\u00e3o esque\u00e7a de marcar o checkbox \"Live CD/DVD\"\n\n\n\n\nSiga para a parte do manual \"Instalando o Ubuntu\" ou \"Instalando o Fedora\".", 
+            "title": "Instalac\u0327a\u0303o Virtual Box"
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Virtual Box/#instalacao-em-virtualbox", 
+            "text": "", 
+            "title": "Instala\u00e7\u00e3o em VirtualBox"
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Virtual Box/#o-que-e-o-virtual-box", 
+            "text": "O VirtualBox \u00e9 uma ferramenta de virtualiza\u00e7\u00e3o. Ela permite que voc\u00ea rode uma m\u00e1quina virtual dentro do seu sistema operacional. Imagine que voc\u00ea quer rodar o Linux dentro do seu Windows! \u00c9 poss\u00edvel com o VirtualBox! O Linux pode funcionar dentro de uma janela do Windows, assim como os seus outros programas :)\n\u00c9 uma boa op\u00e7\u00e3o para quem quer conhecer o Linux sem fazer muitas altera\u00e7\u00f5es no seu computador. Caso mude de id\u00e9ia, a m\u00e1quina virtual com o Linux pode ser desinstalada assim como outros programas no seu computador.", 
+            "title": "O qu\u00ea \u00e9 o Virtual Box?"
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Virtual Box/#como-comecar", 
+            "text": "Baixe o Virtual Box em  https://www.virtualbox.org/  e inicie-o.\nO pr\u00f3ximo passo \u00e9 conseguir uma imagem da distribui\u00e7\u00e3o desejada. Voc\u00ea pode baixar a imagem .iso no site da distribui\u00e7\u00e3o.", 
+            "title": "Como come\u00e7ar"
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Virtual Box/#criando-uma-maquina-virtual", 
+            "text": "", 
+            "title": "Criando uma m\u00e1quina virtual"
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Virtual Box/#no-virtualbox-escolha-a-opcao-new", 
+            "text": "", 
+            "title": "No VirtualBox, escolha a op\u00e7\u00e3o \"New\""
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Virtual Box/#escreva-um-nome-para-a-sua-maquina-virtual-tambem-escolha-um-tipo-e-uma-versao", 
+            "text": "", 
+            "title": "Escreva um nome para a sua m\u00e1quina virtual. Tamb\u00e9m escolha um tipo e uma vers\u00e3o."
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Virtual Box/#escolha-o-tamanho-da-memoria-nesta-tela-vamos-deixar-no-padrao", 
+            "text": "", 
+            "title": "Escolha o tamanho da mem\u00f3ria. Nesta tela, vamos deixar no padr\u00e3o."
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Virtual Box/#aqui-escolha-create-a-virtual-hard-drive-now", 
+            "text": "", 
+            "title": "Aqui, escolha \"Create a virtual hard drive now\"."
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Virtual Box/#selecione-a-opcao-vdi", 
+            "text": "", 
+            "title": "Selecione a op\u00e7\u00e3o \"VDI\"."
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Virtual Box/#selecione-dinamically-allocated", 
+            "text": "", 
+            "title": "Selecione \"Dinamically allocated\"."
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Virtual Box/#tamanho-do-disco-deixaremos-no-padrao-sugerido-pelo-virtualbox", 
+            "text": "", 
+            "title": "Tamanho do disco. Deixaremos no padr\u00e3o sugerido pelo VirtualBox."
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Virtual Box/#agora-clique-com-o-botao-direito-no-nome-da-sua-maquina-virtual-recentemente-criada-e-va-em-settings-storage-clique-no-cdzinho-do-lado-esquerdo", 
+            "text": "", 
+            "title": "Agora, clique com o bot\u00e3o direito no nome da sua m\u00e1quina virtual recentemente criada e v\u00e1 em Settings-&gt;Storage. Clique no CDzinho do lado esquerdo."
+        }, 
+        {
+            "location": "/Instalac\u0327a\u0303o Virtual Box/#agora-clique-no-cdzinho-do-lado-direito-se-voce-tiver-usando-uma-iso-baixada-selecione-a-primeira-opcao-e-selecione-o-seu-arquivo-se-voce-estiver-utilizando-um-livecd-selecione-a-segunda-opcao-e-nao-esqueca-de-marcar-o-checkbox-live-cddvd", 
+            "text": "Siga para a parte do manual \"Instalando o Ubuntu\" ou \"Instalando o Fedora\".", 
+            "title": "Agora clique no CDzinho do lado direito. Se voc\u00ea tiver usando uma ISO baixada, selecione a primeira op\u00e7\u00e3o e selecione o seu arquivo. Se voc\u00ea estiver utilizando um LiveCD, selecione a segunda op\u00e7\u00e3o e n\u00e3o esque\u00e7a de marcar o checkbox \"Live CD/DVD\""
+        }, 
+        {
+            "location": "/Instalando o Fedora/", 
+            "text": "Instalando o Fedora", 
+            "title": "Instalando o Fedora"
+        }, 
+        {
+            "location": "/Instalando o Fedora/#instalando-o-fedora", 
+            "text": "", 
+            "title": "Instalando o Fedora"
+        }, 
+        {
+            "location": "/Instalando o Ubuntu/", 
+            "text": "Instalando o Ubuntu\n\n\nDownload\n\n\nVoc\u00ea pode baixar uma imagem do Ubuntu \naqui\n\n\nInstala\u00e7\u00e3o\n\n\nSelecione a op\u00e7\u00e3o \"Install Ubuntu\"\n\n\n\n\nDeixe as duas checkboxes marcadas e prossiga\n\n\n\n\nAqui temos que pensar em qual forma de instala\u00e7\u00e3o faremos. Caso seja nativa ou VirtualBox, selecione a primeira op\u00e7\u00e3o que indica que usaremos todo o disco. Caso a instala\u00e7\u00e3o seja em dual boot, selecione a op\u00e7\u00e3o \"Something else\"\n\n\n\n\nDependendo do que voc\u00ea escolheu anteriormente, aqui voc\u00ea ter\u00e1 que indicar em qual parti\u00e7\u00e3o deve instalar o Ubuntu. Se voc\u00ea estiver instalando em Dual Boot, tome o cuidado de escolher a parti\u00e7\u00e3o que voc\u00ea criou anteriormente para tal.\n\n\n\n\nSelecione o local em que voc\u00ea est\u00e1 localizada.\n\n\n\n\nSelecione o layout de teclado do seu computador.\n\n\n\n\nCrie o seu login e senha.\n\n\n\n\nAgora \u00e9 s\u00f3 esperar um pouquinho enquando o Ubuntu instala e baixa atualiza\u00e7\u00f5es\n\n\n\n\n\u00c9 isso! Voc\u00ea j\u00e1 pode come\u00e7ar a usar o Ubuntu! :)\n\n\n\n\nFonte: \nhttp://www.ubuntu.com/download/desktop/install-ubuntu-desktop", 
+            "title": "Instalando o Ubuntu"
+        }, 
+        {
+            "location": "/Instalando o Ubuntu/#instalando-o-ubuntu", 
+            "text": "", 
+            "title": "Instalando o Ubuntu"
+        }, 
+        {
+            "location": "/Instalando o Ubuntu/#download", 
+            "text": "Voc\u00ea pode baixar uma imagem do Ubuntu  aqui", 
+            "title": "Download"
+        }, 
+        {
+            "location": "/Instalando o Ubuntu/#instalacao", 
+            "text": "", 
+            "title": "Instala\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/Instalando o Ubuntu/#selecione-a-opcao-install-ubuntu", 
+            "text": "", 
+            "title": "Selecione a op\u00e7\u00e3o \"Install Ubuntu\""
+        }, 
+        {
+            "location": "/Instalando o Ubuntu/#deixe-as-duas-checkboxes-marcadas-e-prossiga", 
+            "text": "", 
+            "title": "Deixe as duas checkboxes marcadas e prossiga"
+        }, 
+        {
+            "location": "/Instalando o Ubuntu/#aqui-temos-que-pensar-em-qual-forma-de-instalacao-faremos-caso-seja-nativa-ou-virtualbox-selecione-a-primeira-opcao-que-indica-que-usaremos-todo-o-disco-caso-a-instalacao-seja-em-dual-boot-selecione-a-opcao-something-else", 
+            "text": "", 
+            "title": "Aqui temos que pensar em qual forma de instala\u00e7\u00e3o faremos. Caso seja nativa ou VirtualBox, selecione a primeira op\u00e7\u00e3o que indica que usaremos todo o disco. Caso a instala\u00e7\u00e3o seja em dual boot, selecione a op\u00e7\u00e3o \"Something else\""
+        }, 
+        {
+            "location": "/Instalando o Ubuntu/#dependendo-do-que-voce-escolheu-anteriormente-aqui-voce-tera-que-indicar-em-qual-particao-deve-instalar-o-ubuntu-se-voce-estiver-instalando-em-dual-boot-tome-o-cuidado-de-escolher-a-particao-que-voce-criou-anteriormente-para-tal", 
+            "text": "", 
+            "title": "Dependendo do que voc\u00ea escolheu anteriormente, aqui voc\u00ea ter\u00e1 que indicar em qual parti\u00e7\u00e3o deve instalar o Ubuntu. Se voc\u00ea estiver instalando em Dual Boot, tome o cuidado de escolher a parti\u00e7\u00e3o que voc\u00ea criou anteriormente para tal."
+        }, 
+        {
+            "location": "/Instalando o Ubuntu/#selecione-o-local-em-que-voce-esta-localizada", 
+            "text": "", 
+            "title": "Selecione o local em que voc\u00ea est\u00e1 localizada."
+        }, 
+        {
+            "location": "/Instalando o Ubuntu/#selecione-o-layout-de-teclado-do-seu-computador", 
+            "text": "", 
+            "title": "Selecione o layout de teclado do seu computador."
+        }, 
+        {
+            "location": "/Instalando o Ubuntu/#crie-o-seu-login-e-senha", 
+            "text": "", 
+            "title": "Crie o seu login e senha."
+        }, 
+        {
+            "location": "/Instalando o Ubuntu/#agora-e-so-esperar-um-pouquinho-enquando-o-ubuntu-instala-e-baixa-atualizacoes", 
+            "text": "", 
+            "title": "Agora \u00e9 s\u00f3 esperar um pouquinho enquando o Ubuntu instala e baixa atualiza\u00e7\u00f5es"
+        }, 
+        {
+            "location": "/Instalando o Ubuntu/#e-isso-voce-ja-pode-comecar-a-usar-o-ubuntu", 
+            "text": "Fonte:  http://www.ubuntu.com/download/desktop/install-ubuntu-desktop", 
+            "title": "\u00c9 isso! Voc\u00ea j\u00e1 pode come\u00e7ar a usar o Ubuntu! :)"
+        }, 
+        {
+            "location": "/Live USB Stick/", 
+            "text": "Live USB Stick\n\n\nImagine que voc\u00ea comprou um jogo novo e ele veio em um CD para que voc\u00ea possa instal\u00e1-lo em seu computador. O Live USB Stick funciona de forma parecida. Nele gravamos a imagem do sistema operacional que queremos instalar. \n\n\nQuando o Live USB Stick \u00e9 necess\u00e1rio?\n\n\n\n\nDual boot no Windows\n\n\nInstala\u00e7\u00e3o Nativa em Windows\n\n\n\n\nNos outros casos, apenas baixar a imagem \u00e9 necess\u00e1rio.\n\n\nObs:  este manual n\u00e3o cobre instala\u00e7\u00e3o nativa em Macs.\n\n\nOnde conseguir a imagem?\n\n\nNeste manual, cobriremos o Ubuntu e o Fedora. Voc\u00ea pode baixar a imagem nos seguintes links:\n\n\nUbuntu\n\n\nFedora\n\n\nGravando a imagem no Pen Drive\n\n\nWindows\n\n\n1) Baixe o Rufus \naqui\n\n\n2) Abra-o e selecione o seu pen drive no menu \"Device\"\n\n\n\n\n3) Clique no \u00edcone do CD pr\u00f3ximo ao menu \"FreeDOS\", ent\u00e3o encontre a imagem ISO baixada e clique em \"Open\"\n\n\n\n\n4) Clique em \"Yes\" quando perguntar sobre baixar o Syslinux software\n\n\n\n\n5) Clique em OK para \"Write in ISO image mode\" \n\n\n\n\n6) Confirme que o seu pendrive foi selecionado e OK para continuar\n\n\n\n\n7) Seu Live USB Stick est\u00e1 pronto! :)\n\n\n\n\nFonte: \nhttp://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows", 
+            "title": "Live USB Stick"
+        }, 
+        {
+            "location": "/Live USB Stick/#live-usb-stick", 
+            "text": "Imagine que voc\u00ea comprou um jogo novo e ele veio em um CD para que voc\u00ea possa instal\u00e1-lo em seu computador. O Live USB Stick funciona de forma parecida. Nele gravamos a imagem do sistema operacional que queremos instalar.", 
+            "title": "Live USB Stick"
+        }, 
+        {
+            "location": "/Live USB Stick/#quando-o-live-usb-stick-e-necessario", 
+            "text": "Dual boot no Windows  Instala\u00e7\u00e3o Nativa em Windows   Nos outros casos, apenas baixar a imagem \u00e9 necess\u00e1rio.  Obs:  este manual n\u00e3o cobre instala\u00e7\u00e3o nativa em Macs.", 
+            "title": "Quando o Live USB Stick \u00e9 necess\u00e1rio?"
+        }, 
+        {
+            "location": "/Live USB Stick/#onde-conseguir-a-imagem", 
+            "text": "Neste manual, cobriremos o Ubuntu e o Fedora. Voc\u00ea pode baixar a imagem nos seguintes links:  Ubuntu  Fedora", 
+            "title": "Onde conseguir a imagem?"
+        }, 
+        {
+            "location": "/Live USB Stick/#gravando-a-imagem-no-pen-drive", 
+            "text": "", 
+            "title": "Gravando a imagem no Pen Drive"
+        }, 
+        {
+            "location": "/Live USB Stick/#windows", 
+            "text": "1) Baixe o Rufus  aqui  2) Abra-o e selecione o seu pen drive no menu \"Device\"   3) Clique no \u00edcone do CD pr\u00f3ximo ao menu \"FreeDOS\", ent\u00e3o encontre a imagem ISO baixada e clique em \"Open\"   4) Clique em \"Yes\" quando perguntar sobre baixar o Syslinux software   5) Clique em OK para \"Write in ISO image mode\"    6) Confirme que o seu pendrive foi selecionado e OK para continuar   7) Seu Live USB Stick est\u00e1 pronto! :)   Fonte:  http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows", 
+            "title": "Windows"
+        }
+    ]
+}
