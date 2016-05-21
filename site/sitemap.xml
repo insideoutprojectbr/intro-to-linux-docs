@@ -11,30 +11,6 @@
 
     
     <url>
-     <loc>None/Instalação Dual Boot/</loc>
-     <lastmod>2016-05-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/Instalação Nativa/</loc>
-     <lastmod>2016-05-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/Instalação Virtual Box/</loc>
-     <lastmod>2016-05-20</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
      <loc>None/Instalando o Fedora/</loc>
      <lastmod>2016-05-20</lastmod>
      <changefreq>daily</changefreq>
@@ -44,6 +20,30 @@
     
     <url>
      <loc>None/Instalando o Ubuntu/</loc>
+     <lastmod>2016-05-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/Instalação Dual Boot/</loc>
+     <lastmod>2016-05-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/Instalação Nativa/</loc>
+     <lastmod>2016-05-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/Instalação Virtual Box/</loc>
      <lastmod>2016-05-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
