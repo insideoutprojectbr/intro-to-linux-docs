@@ -13,6 +13,14 @@ Para instalar em dual boot, é necessário que o seu computador tenha espaço li
 ## Windows
 
 
+
+
 ## Mac
 
-### O Bootcamp
+Para instalar uma distribuição GNU/Linux em Dual Boot com o Mac, você deve criar uma partição no seu computador. 
+
+1. Crie uma partição utilizando a aplicação Disk Utility. Ela deve ter no mínimo 30 GB.
+
+2. Insira o Live USB Stick e reinicie o seu Mac.
+
+3. Siga para a seção "Instalando o Ubuntu" ou "Instalando o Fedora"
