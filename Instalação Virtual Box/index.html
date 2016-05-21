@@ -8,7 +8,7 @@
   
   
   
-  <title>Install virtual box - My Docs</title>
+  <title>Instalação Virtual Box - Intro to Linux</title>
   
 
   <link rel="shortcut icon" href="../img/favicon.ico">
@@ -23,9 +23,9 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Install virtual box";
-    var mkdocs_page_input_path = "install-virtual-box.md";
-    var mkdocs_page_url = "/install-virtual-box/";
+    var mkdocs_page_name = "Instalação Virtual Box";
+    var mkdocs_page_input_path = "Instalação Virtual Box.md";
+    var mkdocs_page_url = "/Instalação Virtual Box/";
   </script>
   
   <script src="../js/jquery-2.1.1.min.js"></script>
@@ -43,7 +43,7 @@
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
       <div class="wy-side-nav-search">
-        <a href=".." class="icon icon-home"> My Docs</a>
+        <a href=".." class="icon icon-home"> Intro to Linux</a>
         <div role="search">
   <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
     <input type="text" name="q" placeholder="Search docs" />
@@ -63,21 +63,35 @@
           
             <li>
     <li class="toctree-l1 ">
-        <a class="" href="../install-dual-boot/">Install dual boot</a>
+        <a class="" href="../Instalando o Fedora/">Instalando o Fedora</a>
         
     </li>
 <li>
           
             <li>
     <li class="toctree-l1 ">
-        <a class="" href="../install-native/">Install native</a>
+        <a class="" href="../Instalando o Ubuntu/">Instalando o Ubuntu</a>
+        
+    </li>
+<li>
+          
+            <li>
+    <li class="toctree-l1 ">
+        <a class="" href="../Instalação Dual Boot/">Instalação Dual Boot</a>
+        
+    </li>
+<li>
+          
+            <li>
+    <li class="toctree-l1 ">
+        <a class="" href="../Instalação Nativa/">Instalação Nativa</a>
         
     </li>
 <li>
           
             <li>
     <li class="toctree-l1 current">
-        <a class="current" href="./">Install virtual box</a>
+        <a class="current" href="./">Instalação Virtual Box</a>
         
             <ul>
             
@@ -87,6 +101,8 @@
                 
                     <li><a class="toctree-l4" href="#como-comecar">Como começar</a></li>
                 
+                    <li><a class="toctree-l4" href="#criando-uma-maquina-virtual">Criando uma máquina virtual</a></li>
+                
             
             </ul>
         
@@ -95,7 +111,7 @@
           
             <li>
     <li class="toctree-l1 ">
-        <a class="" href="../live-usb-stick/">Live usb stick</a>
+        <a class="" href="../Live USB Stick/">Live USB Stick</a>
         
     </li>
 <li>
@@ -110,7 +126,7 @@
       
       <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
         <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-        <a href="..">My Docs</a>
+        <a href="..">Intro to Linux</a>
       </nav>
 
       
@@ -122,7 +138,7 @@
     
       
     
-    <li>Install virtual box</li>
+    <li>Instalação Virtual Box</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -136,8 +152,29 @@
 <h2 id="o-que-e-o-virtual-box">O quê é o Virtual Box?</h2>
 <p>O VirtualBox é uma ferramenta de virtualização. Ela permite que você rode uma máquina virtual dentro do seu sistema operacional. Imagine que você quer rodar o Linux dentro do seu Windows! É possível com o VirtualBox! O Linux pode funcionar dentro de uma janela do Windows, assim como os seus outros programas :)
 É uma boa opção para quem quer conhecer o Linux sem fazer muitas alterações no seu computador. Caso mude de idéia, a máquina virtual com o Linux pode ser desinstalada assim como outros programas no seu computador.</p>
-<p>Você pode baixar o Virtual Box em <a href="https://www.virtualbox.org/">https://www.virtualbox.org/</a></p>
 <h2 id="como-comecar">Como começar</h2>
+<p>Baixe o Virtual Box em <a href="https://www.virtualbox.org/">https://www.virtualbox.org/</a> e inicie-o.
+O próximo passo é conseguir uma imagem da distribuição desejada. Você pode baixar a imagem .iso no site da distribuição.</p>
+<h2 id="criando-uma-maquina-virtual">Criando uma máquina virtual</h2>
+<h3 id="no-virtualbox-escolha-a-opcao-new">No VirtualBox, escolha a opção "New"</h3>
+<p><img alt="1" src="../img/virtualbox-1.png" /></p>
+<h3 id="escreva-um-nome-para-a-sua-maquina-virtual-tambem-escolha-um-tipo-e-uma-versao">Escreva um nome para a sua máquina virtual. Também escolha um tipo e uma versão.</h3>
+<p><img alt="2" src="../img/virtualbox-2.png" /></p>
+<h3 id="escolha-o-tamanho-da-memoria-nesta-tela-vamos-deixar-no-padrao">Escolha o tamanho da memória. Nesta tela, vamos deixar no padrão.</h3>
+<p><img alt="3" src="../img/virtualbox-3.png" /></p>
+<h3 id="aqui-escolha-create-a-virtual-hard-drive-now">Aqui, escolha "Create a virtual hard drive now".</h3>
+<p><img alt="4" src="../img/virtualbox-4.png" /></p>
+<h3 id="selecione-a-opcao-vdi">Selecione a opção "VDI".</h3>
+<p><img alt="5" src="../img/virtualbox-5.png" /></p>
+<h3 id="selecione-dinamically-allocated">Selecione "Dinamically allocated".</h3>
+<p><img alt="6" src="../img/virtualbox-6.png" /></p>
+<h3 id="tamanho-do-disco-deixaremos-no-padrao-sugerido-pelo-virtualbox">Tamanho do disco. Deixaremos no padrão sugerido pelo VirtualBox.</h3>
+<p><img alt="7" src="../img/virtualbox-7.png" /></p>
+<h3 id="agora-clique-com-o-botao-direito-no-nome-da-sua-maquina-virtual-recentemente-criada-e-va-em-settings-storage-clique-no-cdzinho-do-lado-esquerdo">Agora, clique com o botão direito no nome da sua máquina virtual recentemente criada e vá em Settings-&gt;Storage. Clique no CDzinho do lado esquerdo.</h3>
+<p><img alt="8" src="../img/virtualbox-8.png" /></p>
+<h3 id="agora-clique-no-cdzinho-do-lado-direito-se-voce-tiver-usando-uma-iso-baixada-selecione-a-primeira-opcao-e-selecione-o-seu-arquivo-se-voce-estiver-utilizando-um-livecd-selecione-a-segunda-opcao-e-nao-esqueca-de-marcar-o-checkbox-live-cddvd">Agora clique no CDzinho do lado direito. Se você tiver usando uma ISO baixada, selecione a primeira opção e selecione o seu arquivo. Se você estiver utilizando um LiveCD, selecione a segunda opção e não esqueça de marcar o checkbox "Live CD/DVD"</h3>
+<p><img alt="9" src="../img/virtualbox-9.png" /></p>
+<p>Siga para a parte do manual "Instalando o Ubuntu" ou "Instalando o Fedora".</p>
               
             </div>
           </div>
@@ -145,10 +182,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../live-usb-stick/" class="btn btn-neutral float-right" title="Live usb stick">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../Live USB Stick/" class="btn btn-neutral float-right" title="Live USB Stick">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../install-native/" class="btn btn-neutral" title="Install native"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../Instalação Nativa/" class="btn btn-neutral" title="Instalação Nativa"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -174,10 +211,10 @@
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
-        <span><a href="../install-native/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../Instalação Nativa/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
-        <span style="margin-left: 15px"><a href="../live-usb-stick/" style="color: #fcfcfc">Next &raquo;</a></span>
+        <span style="margin-left: 15px"><a href="../Live USB Stick/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>
