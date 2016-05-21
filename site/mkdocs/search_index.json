@@ -1,118 +1,118 @@
 {
     "docs": [
         {
-            "location": "/", 
-            "text": "Intro to Linux\n\n\nBem-vinda! Esta \u00e9 a documenta\u00e7\u00e3o do workshop de Introdu\u00e7\u00e3o ao Linux. Aqui est\u00e1 o manual de instala\u00e7\u00e3o do Linux dependendo da forma que voc\u00ea deseja instalar: virtuabox, dual boot ou nativo. \n\n\nMaterial necess\u00e1rio\n\n\nVoc\u00ea vai precisar de um computador onde queira fazer a instala\u00e7\u00e3o e tamb\u00e9m um pendrive que voc\u00ea n\u00e3o se importe em formatar. Este pen drive \u00e9 necess\u00e1rio principalmente nos casos de instala\u00e7\u00e3o em dual boot e nativa. \u00c9 nele que faremos o Live USB Stick.", 
+            "location": "/",
+            "text": "Intro to Linux\n\n\nBem-vinda! Esta \u00e9 a documenta\u00e7\u00e3o do workshop de Introdu\u00e7\u00e3o ao Linux. Aqui est\u00e1 o manual de instala\u00e7\u00e3o do Linux dependendo da forma que voc\u00ea deseja instalar: virtuabox, dual boot ou nativo. \n\n\nMaterial necess\u00e1rio\n\n\nVoc\u00ea vai precisar de um computador onde queira fazer a instala\u00e7\u00e3o e tamb\u00e9m um pendrive que voc\u00ea n\u00e3o se importe em formatar. Este pen drive \u00e9 necess\u00e1rio principalmente nos casos de instala\u00e7\u00e3o em dual boot e nativa. \u00c9 nele que faremos o Live USB Stick.",
             "title": "Home"
-        }, 
+        },
         {
-            "location": "/#intro-to-linux", 
-            "text": "Bem-vinda! Esta \u00e9 a documenta\u00e7\u00e3o do workshop de Introdu\u00e7\u00e3o ao Linux. Aqui est\u00e1 o manual de instala\u00e7\u00e3o do Linux dependendo da forma que voc\u00ea deseja instalar: virtuabox, dual boot ou nativo.", 
+            "location": "/#intro-to-linux",
+            "text": "Bem-vinda! Esta \u00e9 a documenta\u00e7\u00e3o do workshop de Introdu\u00e7\u00e3o ao Linux. Aqui est\u00e1 o manual de instala\u00e7\u00e3o do Linux dependendo da forma que voc\u00ea deseja instalar: virtuabox, dual boot ou nativo.",
             "title": "Intro to Linux"
-        }, 
+        },
         {
-            "location": "/#material-necessario", 
-            "text": "Voc\u00ea vai precisar de um computador onde queira fazer a instala\u00e7\u00e3o e tamb\u00e9m um pendrive que voc\u00ea n\u00e3o se importe em formatar. Este pen drive \u00e9 necess\u00e1rio principalmente nos casos de instala\u00e7\u00e3o em dual boot e nativa. \u00c9 nele que faremos o Live USB Stick.", 
+            "location": "/#material-necessario",
+            "text": "Voc\u00ea vai precisar de um computador onde queira fazer a instala\u00e7\u00e3o e tamb\u00e9m um pendrive que voc\u00ea n\u00e3o se importe em formatar. Este pen drive \u00e9 necess\u00e1rio principalmente nos casos de instala\u00e7\u00e3o em dual boot e nativa. \u00c9 nele que faremos o Live USB Stick.",
             "title": "Material necess\u00e1rio"
-        }, 
+        },
         {
-            "location": "/install-dual-boot/", 
-            "text": "Instala\u00e7\u00e3o em Dual Boot\n\n\nO que \u00e9 o Dual Boot?\n\n\nA instala\u00e7\u00e3o nativa permite que voc\u00ea mantenha dois sistemas operacionais no seu computador, assim voc\u00ea pode escolher qual voc\u00ea quer utilizar no momento de boot do computador, ou seja, na hora que o computador est\u00e1 ligando.\n\n\n\u00c9 uma boa op\u00e7\u00e3o para quem est\u00e1 em transi\u00e7\u00e3o para o GNU/Linux, mas n\u00e3o quer deixar de lado o Windows e as aplica\u00e7\u00f5es que costuma utilizar.\n\n\nComo come\u00e7ar\n\n\nPara instalar em dual boot, \u00e9 necess\u00e1rio que o seu computador tenha espa\u00e7o livre em HD para acomodar o GNU/Linux. Verifique com a distro desejada qual \u00e9 o espa\u00e7o necess\u00e1rio para esta. Geralmente, elas n\u00e3o precisam de muito.\n\n\nWindows\n\n\nMac\n\n\nO Bootcamp", 
+            "location": "/install-dual-boot/",
+            "text": "Instala\u00e7\u00e3o em Dual Boot\n\n\nO que \u00e9 o Dual Boot?\n\n\nA instala\u00e7\u00e3o nativa permite que voc\u00ea mantenha dois sistemas operacionais no seu computador, assim voc\u00ea pode escolher qual voc\u00ea quer utilizar no momento de boot do computador, ou seja, na hora que o computador est\u00e1 ligando.\n\n\n\u00c9 uma boa op\u00e7\u00e3o para quem est\u00e1 em transi\u00e7\u00e3o para o GNU/Linux, mas n\u00e3o quer deixar de lado o Windows e as aplica\u00e7\u00f5es que costuma utilizar.\n\n\nComo come\u00e7ar\n\n\nPara instalar em dual boot, \u00e9 necess\u00e1rio que o seu computador tenha espa\u00e7o livre em HD para acomodar o GNU/Linux. Verifique com a distro desejada qual \u00e9 o espa\u00e7o necess\u00e1rio para esta. Geralmente, elas n\u00e3o precisam de muito.\n\n\nWindows\n\n\nMac\n\n\nO Bootcamp",
             "title": "Install dual boot"
-        }, 
+        },
         {
-            "location": "/install-dual-boot/#instalacao-em-dual-boot", 
-            "text": "", 
+            "location": "/install-dual-boot/#instalacao-em-dual-boot",
+            "text": "",
             "title": "Instala\u00e7\u00e3o em Dual Boot"
-        }, 
+        },
         {
-            "location": "/install-dual-boot/#o-que-e-o-dual-boot", 
-            "text": "A instala\u00e7\u00e3o nativa permite que voc\u00ea mantenha dois sistemas operacionais no seu computador, assim voc\u00ea pode escolher qual voc\u00ea quer utilizar no momento de boot do computador, ou seja, na hora que o computador est\u00e1 ligando.  \u00c9 uma boa op\u00e7\u00e3o para quem est\u00e1 em transi\u00e7\u00e3o para o GNU/Linux, mas n\u00e3o quer deixar de lado o Windows e as aplica\u00e7\u00f5es que costuma utilizar.", 
+            "location": "/install-dual-boot/#o-que-e-o-dual-boot",
+            "text": "A instala\u00e7\u00e3o nativa permite que voc\u00ea mantenha dois sistemas operacionais no seu computador, assim voc\u00ea pode escolher qual voc\u00ea quer utilizar no momento de boot do computador, ou seja, na hora que o computador est\u00e1 ligando.  \u00c9 uma boa op\u00e7\u00e3o para quem est\u00e1 em transi\u00e7\u00e3o para o GNU/Linux, mas n\u00e3o quer deixar de lado o Windows e as aplica\u00e7\u00f5es que costuma utilizar.",
             "title": "O que \u00e9 o Dual Boot?"
-        }, 
+        },
         {
-            "location": "/install-dual-boot/#como-comecar", 
-            "text": "Para instalar em dual boot, \u00e9 necess\u00e1rio que o seu computador tenha espa\u00e7o livre em HD para acomodar o GNU/Linux. Verifique com a distro desejada qual \u00e9 o espa\u00e7o necess\u00e1rio para esta. Geralmente, elas n\u00e3o precisam de muito.", 
+            "location": "/install-dual-boot/#como-comecar",
+            "text": "Para instalar em dual boot, \u00e9 necess\u00e1rio que o seu computador tenha espa\u00e7o livre em HD para acomodar o GNU/Linux. Verifique com a distro desejada qual \u00e9 o espa\u00e7o necess\u00e1rio para esta. Geralmente, elas n\u00e3o precisam de muito.",
             "title": "Como come\u00e7ar"
-        }, 
+        },
         {
-            "location": "/install-dual-boot/#windows", 
-            "text": "", 
+            "location": "/install-dual-boot/#windows",
+            "text": "",
             "title": "Windows"
-        }, 
+        },
         {
-            "location": "/install-dual-boot/#mac", 
-            "text": "", 
+            "location": "/install-dual-boot/#mac",
+            "text": "",
             "title": "Mac"
-        }, 
+        },
         {
-            "location": "/install-dual-boot/#o-bootcamp", 
-            "text": "", 
+            "location": "/install-dual-boot/#o-bootcamp",
+            "text": "",
             "title": "O Bootcamp"
-        }, 
+        },
         {
-            "location": "/install-native/", 
-            "text": "Instala\u00e7\u00e3o Nativa\n\n\nO que \u00e9 a instala\u00e7\u00e3o nativa?", 
+            "location": "/install-native/",
+            "text": "Instala\u00e7\u00e3o Nativa\n\n\nO que \u00e9 a instala\u00e7\u00e3o nativa?",
             "title": "Install native"
-        }, 
+        },
         {
-            "location": "/install-native/#instalacao-nativa", 
-            "text": "", 
+            "location": "/install-native/#instalacao-nativa",
+            "text": "",
             "title": "Instala\u00e7\u00e3o Nativa"
-        }, 
+        },
         {
-            "location": "/install-native/#o-que-e-a-instalacao-nativa", 
-            "text": "", 
+            "location": "/install-native/#o-que-e-a-instalacao-nativa",
+            "text": "",
             "title": "O que \u00e9 a instala\u00e7\u00e3o nativa?"
-        }, 
+        },
         {
-            "location": "/install-virtual-box/", 
-            "text": "Instala\u00e7\u00e3o em VirtualBox\n\n\nO qu\u00ea \u00e9 o Virtual Box?\n\n\nO VirtualBox \u00e9 uma ferramenta de virtualiza\u00e7\u00e3o. Ela permite que voc\u00ea rode uma m\u00e1quina virtual dentro do seu sistema operacional. Imagine que voc\u00ea quer rodar o Linux dentro do seu Windows! \u00c9 poss\u00edvel com o VirtualBox! O Linux pode funcionar dentro de uma janela do Windows, assim como os seus outros programas :)\n\u00c9 uma boa op\u00e7\u00e3o para quem quer conhecer o Linux sem fazer muitas altera\u00e7\u00f5es no seu computador. Caso mude de id\u00e9ia, a m\u00e1quina virtual com o Linux pode ser desinstalada assim como outros programas no seu computador.\n\n\nVoc\u00ea pode baixar o Virtual Box em \nhttps://www.virtualbox.org/\n\n\nComo come\u00e7ar", 
+            "location": "/install-virtual-box/",
+            "text": "Instala\u00e7\u00e3o em VirtualBox\n\n\nO qu\u00ea \u00e9 o Virtual Box?\n\n\nO VirtualBox \u00e9 uma ferramenta de virtualiza\u00e7\u00e3o. Ela permite que voc\u00ea rode uma m\u00e1quina virtual dentro do seu sistema operacional. Imagine que voc\u00ea quer rodar o Linux dentro do seu Windows! \u00c9 poss\u00edvel com o VirtualBox! O Linux pode funcionar dentro de uma janela do Windows, assim como os seus outros programas :)\n\u00c9 uma boa op\u00e7\u00e3o para quem quer conhecer o Linux sem fazer muitas altera\u00e7\u00f5es no seu computador. Caso mude de id\u00e9ia, a m\u00e1quina virtual com o Linux pode ser desinstalada assim como outros programas no seu computador.\n\n\nVoc\u00ea pode baixar o Virtual Box em \nhttps://www.virtualbox.org/\n\n\nComo come\u00e7ar",
             "title": "Install virtual box"
-        }, 
+        },
         {
-            "location": "/install-virtual-box/#instalacao-em-virtualbox", 
-            "text": "", 
+            "location": "/install-virtual-box/#instalacao-em-virtualbox",
+            "text": "",
             "title": "Instala\u00e7\u00e3o em VirtualBox"
-        }, 
+        },
         {
-            "location": "/install-virtual-box/#o-que-e-o-virtual-box", 
-            "text": "O VirtualBox \u00e9 uma ferramenta de virtualiza\u00e7\u00e3o. Ela permite que voc\u00ea rode uma m\u00e1quina virtual dentro do seu sistema operacional. Imagine que voc\u00ea quer rodar o Linux dentro do seu Windows! \u00c9 poss\u00edvel com o VirtualBox! O Linux pode funcionar dentro de uma janela do Windows, assim como os seus outros programas :)\n\u00c9 uma boa op\u00e7\u00e3o para quem quer conhecer o Linux sem fazer muitas altera\u00e7\u00f5es no seu computador. Caso mude de id\u00e9ia, a m\u00e1quina virtual com o Linux pode ser desinstalada assim como outros programas no seu computador.  Voc\u00ea pode baixar o Virtual Box em  https://www.virtualbox.org/", 
+            "location": "/install-virtual-box/#o-que-e-o-virtual-box",
+            "text": "O VirtualBox \u00e9 uma ferramenta de virtualiza\u00e7\u00e3o. Ela permite que voc\u00ea rode uma m\u00e1quina virtual dentro do seu sistema operacional. Imagine que voc\u00ea quer rodar o Linux dentro do seu Windows! \u00c9 poss\u00edvel com o VirtualBox! O Linux pode funcionar dentro de uma janela do Windows, assim como os seus outros programas :)\n\u00c9 uma boa op\u00e7\u00e3o para quem quer conhecer o Linux sem fazer muitas altera\u00e7\u00f5es no seu computador. Caso mude de id\u00e9ia, a m\u00e1quina virtual com o Linux pode ser desinstalada assim como outros programas no seu computador.  Voc\u00ea pode baixar o Virtual Box em  https://www.virtualbox.org/",
             "title": "O qu\u00ea \u00e9 o Virtual Box?"
-        }, 
+        },
         {
-            "location": "/install-virtual-box/#como-comecar", 
-            "text": "", 
+            "location": "/install-virtual-box/#como-comecar",
+            "text": "",
             "title": "Como come\u00e7ar"
-        }, 
+        },
         {
-            "location": "/live-usb-stick/", 
-            "text": "Live USB Stick\n\n\nImagine que voc\u00ea comprou um jogo novo e ele veio em um CD para que voc\u00ea possa instal\u00e1-lo em seu computador. O Live USB Stick funciona de forma parecida. Nele gravamos a imagem do sistema operacional que queremos instalar. \n\n\nQuando o Live USB Stick \u00e9 necess\u00e1rio?\n\n\n\n\nDual boot no Windows\n\n\nInstala\u00e7\u00e3o Nativa em Windows\n\n\n\n\nNos outros casos, apenas baixar a imagem \u00e9 necess\u00e1rio.\n\n\nObs:  este manual n\u00e3o cobre instala\u00e7\u00e3o nativa em Macs.\n\n\nOnde conseguir a imagem?\n\n\nNeste manual, cobriremos o Ubuntu e o Fedora. Voc\u00ea pode baixar a imagem nos seguintes links:\n\n\nUbuntu\n\n\nFedora\n\n\nGravando a imagem no Pen Drive\n\n\nWindows\n\n\n1) Baixe o Rufus \naqui\n\n\n2) Abra-o e selecione o seu pen drive no menu \"Device\"\n\n\n\n\n3) Clique no \u00edcone do CD pr\u00f3ximo ao menu \"FreeDOS\", ent\u00e3o encontre a imagem ISO baixada e clique em \"Open\"\n\n\n\n\n4) Clique em \"Yes\" quando perguntar sobre baixar o Syslinux software\n\n\n\n\n5) Clique em OK para \"Write in ISO image mode\" \n\n\n\n\n6) Confirme que o seu pendrive foi selecionado e OK para continuar\n\n\n\n\n7) Seu Live USB Stick est\u00e1 pronto! :)\n\n\n\n\nFonte: \nhttp://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows", 
+            "location": "/live-usb-stick/",
+            "text": "Live USB Stick\n\n\nImagine que voc\u00ea comprou um jogo novo e ele veio em um CD para que voc\u00ea possa instal\u00e1-lo em seu computador. O Live USB Stick funciona de forma parecida. Nele gravamos a imagem do sistema operacional que queremos instalar. \n\n\nQuando o Live USB Stick \u00e9 necess\u00e1rio?\n\n\n\n\nDual boot no Windows\n\n\nInstala\u00e7\u00e3o Nativa em Windows\n\n\n\n\nNos outros casos, apenas baixar a imagem \u00e9 necess\u00e1rio.\n\n\nObs:  este manual n\u00e3o cobre instala\u00e7\u00e3o nativa em Macs.\n\n\nOnde conseguir a imagem?\n\n\nNeste manual, cobriremos o Ubuntu e o Fedora. Voc\u00ea pode baixar a imagem nos seguintes links:\n\n\nUbuntu\n\n\nFedora\n\n\nGravando a imagem no Pen Drive\n\n\nWindows\n\n\n1) Baixe o Rufus \naqui\n\n\n2) Abra-o e selecione o seu pen drive no menu \"Device\"\n\n\n\n\n3) Clique no \u00edcone do CD pr\u00f3ximo ao menu \"FreeDOS\", ent\u00e3o encontre a imagem ISO baixada e clique em \"Open\"\n\n\n\n\n4) Clique em \"Yes\" quando perguntar sobre baixar o Syslinux software\n\n\n\n\n5) Clique em OK para \"Write in ISO image mode\" \n\n\n\n\n6) Confirme que o seu pendrive foi selecionado e OK para continuar\n\n\n\n\n7) Seu Live USB Stick est\u00e1 pronto! :)\n\n\n\n\nFonte: \nhttp://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows",
             "title": "Live usb stick"
-        }, 
+        },
         {
-            "location": "/live-usb-stick/#live-usb-stick", 
-            "text": "Imagine que voc\u00ea comprou um jogo novo e ele veio em um CD para que voc\u00ea possa instal\u00e1-lo em seu computador. O Live USB Stick funciona de forma parecida. Nele gravamos a imagem do sistema operacional que queremos instalar.", 
+            "location": "/live-usb-stick/#live-usb-stick",
+            "text": "Imagine que voc\u00ea comprou um jogo novo e ele veio em um CD para que voc\u00ea possa instal\u00e1-lo em seu computador. O Live USB Stick funciona de forma parecida. Nele gravamos a imagem do sistema operacional que queremos instalar.",
             "title": "Live USB Stick"
-        }, 
+        },
         {
-            "location": "/live-usb-stick/#quando-o-live-usb-stick-e-necessario", 
-            "text": "Dual boot no Windows  Instala\u00e7\u00e3o Nativa em Windows   Nos outros casos, apenas baixar a imagem \u00e9 necess\u00e1rio.  Obs:  este manual n\u00e3o cobre instala\u00e7\u00e3o nativa em Macs.", 
+            "location": "/live-usb-stick/#quando-o-live-usb-stick-e-necessario",
+            "text": "Dual boot no Windows  Instala\u00e7\u00e3o Nativa em Windows   Nos outros casos, apenas baixar a imagem \u00e9 necess\u00e1rio.  Obs:  este manual n\u00e3o cobre instala\u00e7\u00e3o nativa em Macs.",
             "title": "Quando o Live USB Stick \u00e9 necess\u00e1rio?"
-        }, 
+        },
         {
-            "location": "/live-usb-stick/#onde-conseguir-a-imagem", 
-            "text": "Neste manual, cobriremos o Ubuntu e o Fedora. Voc\u00ea pode baixar a imagem nos seguintes links:  Ubuntu  Fedora", 
+            "location": "/live-usb-stick/#onde-conseguir-a-imagem",
+            "text": "Neste manual, cobriremos o Ubuntu e o Fedora. Voc\u00ea pode baixar a imagem nos seguintes links:  Ubuntu  Fedora",
             "title": "Onde conseguir a imagem?"
-        }, 
+        },
         {
-            "location": "/live-usb-stick/#gravando-a-imagem-no-pen-drive", 
-            "text": "", 
+            "location": "/live-usb-stick/#gravando-a-imagem-no-pen-drive",
+            "text": "",
             "title": "Gravando a imagem no Pen Drive"
-        }, 
+        },
         {
-            "location": "/live-usb-stick/#windows", 
-            "text": "1) Baixe o Rufus  aqui  2) Abra-o e selecione o seu pen drive no menu \"Device\"   3) Clique no \u00edcone do CD pr\u00f3ximo ao menu \"FreeDOS\", ent\u00e3o encontre a imagem ISO baixada e clique em \"Open\"   4) Clique em \"Yes\" quando perguntar sobre baixar o Syslinux software   5) Clique em OK para \"Write in ISO image mode\"    6) Confirme que o seu pendrive foi selecionado e OK para continuar   7) Seu Live USB Stick est\u00e1 pronto! :)   Fonte:  http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows", 
+            "location": "/live-usb-stick/#windows",
+            "text": "1) Baixe o Rufus  aqui  2) Abra-o e selecione o seu pen drive no menu \"Device\"   3) Clique no \u00edcone do CD pr\u00f3ximo ao menu \"FreeDOS\", ent\u00e3o encontre a imagem ISO baixada e clique em \"Open\"   4) Clique em \"Yes\" quando perguntar sobre baixar o Syslinux software   5) Clique em OK para \"Write in ISO image mode\"    6) Confirme que o seu pendrive foi selecionado e OK para continuar   7) Seu Live USB Stick est\u00e1 pronto! :)   Fonte:  http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows",
             "title": "Windows"
         }
     ]
