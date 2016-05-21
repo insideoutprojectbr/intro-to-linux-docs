@@ -17,13 +17,93 @@
         },
         {
             "location": "/Instalando o Fedora/",
-            "text": "Instalando o Fedora",
+            "text": "Instalando o Fedora\n\n\nDownload\n\n\nVoc\u00ea pode baixar uma imagem do Fedora \naqui\n\n\nInstala\u00e7\u00e3o\n\n\nSelecione a op\u00e7\u00e3o \"Start Fedora Live\"\n\n\n\n\nSelecione a op\u00e7\u00e3o \"Install to Hard Drive\"\n\n\n\n\nPrimeiramente escolha o idioma em que vai desejar realizar a instala\u00e7\u00e3o.\n\n\n\n\nNa tela \"Resumo da Instala\u00e7\u00e3o\", as 4 configura\u00e7\u00f5es seguintes pode ser feitas em qualquer ordem, diferentemente da instala\u00e7\u00e3o do Ubuntu que \u00e9 mais linear. Podemos come\u00e7ar clicando em \"Layout do Teclado\".\n\n\n\n\nNesta tela escolha o layout do teclado preferido e clique em \"Finalizado\".\n\n\n\n\nDe volta \u00e0 tela de \"Resumo da Instala\u00e7\u00e3o\", agora selecionamos a op\u00e7\u00e3o \"Time & Date\" para configurar data e hora do sistema. Escolha a regi\u00e3o e cidade por caixa de sele\u00e7\u00e3o ou clicando no mapa e se deseja recuperar hor\u00e1rio da rede e clique em \"Finalizado\".\n\n\n\n\nAgora escolha a op\u00e7\u00e3o \"Destina\u00e7\u00e3o da Instala\u00e7\u00e3o\", selecione o disco r\u00edgido onde ser\u00e1 feito a instala\u00e7\u00e3o. Voc\u00ea poder\u00e1 optar pelo particionamento autom\u00e1tico, isto \u00e9, feito pelo instalador ou pelo manual. Quando terminar, clique em \"Finalizado\".\n\n\n\n\nDe volta \u00e0 tela \"Resumo de Instala\u00e7\u00e3o\", agora s\u00f3 falta clicar em \"Network & Hostname\" para configurar o nome da sua m\u00e1quina na rede. Escolha o nome da sua m\u00e1quina e clique em \"Finalizado\".\n\n\n\n\nFinalmente de volta \u00e0 tela resumo de instala\u00e7\u00e3o, clique em \"Iniciar instala\u00e7\u00e3o\"\n\n\n\n\nAgora voc\u00ea deve configurar a senha do usu\u00e1rio \"root\" do seu sistema. Usu\u00e1rio \"root\" \u00e9 aquele que pode alterar a configura\u00e7\u00e3o do sistema, configurar interfaces de rede, manipular usu\u00e1rios e grupos, alterar a prioridades de processos, entre outros. Leia mais em: \nO usu\u00e1rio root\n\n\n\n\nDigite a senha e a confirme e aperte em \"Finalizado\".\n\n\n\n\nFinalmente est\u00e1 na hora de criar um usu\u00e1rio para voc\u00ea no sistema. Digite seu nome completo e seu nome de usu\u00e1rio. Em seguida escolha se deseja transformar esse usu\u00e1rio em administrador do sistema e se \u00e9 necess\u00e1rio uma senha para acessar essa conta, o que \u00e9 recomend\u00e1vel. Em seguida aperte em \"Finalizado\".\n\n\n\n\nDe volta \u00e0 tela de \"Configura\u00e7\u00e3o\", aperte em \"Finalizar a configura\u00e7\u00e3o\" e aguarde alguns instantes.\n\n\n\n\nPronto!! Agora aperte em \"Sair\" para come\u00e7ar a usar! :D",
             "title": "Instalando o Fedora"
         },
         {
             "location": "/Instalando o Fedora/#instalando-o-fedora",
             "text": "",
             "title": "Instalando o Fedora"
+        },
+        {
+            "location": "/Instalando o Fedora/#download",
+            "text": "Voc\u00ea pode baixar uma imagem do Fedora  aqui",
+            "title": "Download"
+        },
+        {
+            "location": "/Instalando o Fedora/#instalacao",
+            "text": "",
+            "title": "Instala\u00e7\u00e3o"
+        },
+        {
+            "location": "/Instalando o Fedora/#selecione-a-opcao-start-fedora-live",
+            "text": "",
+            "title": "Selecione a op\u00e7\u00e3o \"Start Fedora Live\""
+        },
+        {
+            "location": "/Instalando o Fedora/#selecione-a-opcao-install-to-hard-drive",
+            "text": "",
+            "title": "Selecione a op\u00e7\u00e3o \"Install to Hard Drive\""
+        },
+        {
+            "location": "/Instalando o Fedora/#primeiramente-escolha-o-idioma-em-que-vai-desejar-realizar-a-instalacao",
+            "text": "",
+            "title": "Primeiramente escolha o idioma em que vai desejar realizar a instala\u00e7\u00e3o."
+        },
+        {
+            "location": "/Instalando o Fedora/#na-tela-resumo-da-instalacao-as-4-configuracoes-seguintes-pode-ser-feitas-em-qualquer-ordem-diferentemente-da-instalacao-do-ubuntu-que-e-mais-linear-podemos-comecar-clicando-em-layout-do-teclado",
+            "text": "",
+            "title": "Na tela \"Resumo da Instala\u00e7\u00e3o\", as 4 configura\u00e7\u00f5es seguintes pode ser feitas em qualquer ordem, diferentemente da instala\u00e7\u00e3o do Ubuntu que \u00e9 mais linear. Podemos come\u00e7ar clicando em \"Layout do Teclado\"."
+        },
+        {
+            "location": "/Instalando o Fedora/#nesta-tela-escolha-o-layout-do-teclado-preferido-e-clique-em-finalizado",
+            "text": "",
+            "title": "Nesta tela escolha o layout do teclado preferido e clique em \"Finalizado\"."
+        },
+        {
+            "location": "/Instalando o Fedora/#de-volta-a-tela-de-resumo-da-instalacao-agora-selecionamos-a-opcao-time-date-para-configurar-data-e-hora-do-sistema-escolha-a-regiao-e-cidade-por-caixa-de-selecao-ou-clicando-no-mapa-e-se-deseja-recuperar-horario-da-rede-e-clique-em-finalizado",
+            "text": "",
+            "title": "De volta \u00e0 tela de \"Resumo da Instala\u00e7\u00e3o\", agora selecionamos a op\u00e7\u00e3o \"Time &amp; Date\" para configurar data e hora do sistema. Escolha a regi\u00e3o e cidade por caixa de sele\u00e7\u00e3o ou clicando no mapa e se deseja recuperar hor\u00e1rio da rede e clique em \"Finalizado\"."
+        },
+        {
+            "location": "/Instalando o Fedora/#agora-escolha-a-opcao-destinacao-da-instalacao-selecione-o-disco-rigido-onde-sera-feito-a-instalacao-voce-podera-optar-pelo-particionamento-automatico-isto-e-feito-pelo-instalador-ou-pelo-manual-quando-terminar-clique-em-finalizado",
+            "text": "",
+            "title": "Agora escolha a op\u00e7\u00e3o \"Destina\u00e7\u00e3o da Instala\u00e7\u00e3o\", selecione o disco r\u00edgido onde ser\u00e1 feito a instala\u00e7\u00e3o. Voc\u00ea poder\u00e1 optar pelo particionamento autom\u00e1tico, isto \u00e9, feito pelo instalador ou pelo manual. Quando terminar, clique em \"Finalizado\"."
+        },
+        {
+            "location": "/Instalando o Fedora/#de-volta-a-tela-resumo-de-instalacao-agora-so-falta-clicar-em-network-hostname-para-configurar-o-nome-da-sua-maquina-na-rede-escolha-o-nome-da-sua-maquina-e-clique-em-finalizado",
+            "text": "",
+            "title": "De volta \u00e0 tela \"Resumo de Instala\u00e7\u00e3o\", agora s\u00f3 falta clicar em \"Network &amp; Hostname\" para configurar o nome da sua m\u00e1quina na rede. Escolha o nome da sua m\u00e1quina e clique em \"Finalizado\"."
+        },
+        {
+            "location": "/Instalando o Fedora/#finalmente-de-volta-a-tela-resumo-de-instalacao-clique-em-iniciar-instalacao",
+            "text": "",
+            "title": "Finalmente de volta \u00e0 tela resumo de instala\u00e7\u00e3o, clique em \"Iniciar instala\u00e7\u00e3o\""
+        },
+        {
+            "location": "/Instalando o Fedora/#agora-voce-deve-configurar-a-senha-do-usuario-root-do-seu-sistema-usuario-root-e-aquele-que-pode-alterar-a-configuracao-do-sistema-configurar-interfaces-de-rede-manipular-usuarios-e-grupos-alterar-a-prioridades-de-processos-entre-outros-leia-mais-em-o-usuario-root",
+            "text": "",
+            "title": "Agora voc\u00ea deve configurar a senha do usu\u00e1rio \"root\" do seu sistema. Usu\u00e1rio \"root\" \u00e9 aquele que pode alterar a configura\u00e7\u00e3o do sistema, configurar interfaces de rede, manipular usu\u00e1rios e grupos, alterar a prioridades de processos, entre outros. Leia mais em: O usu\u00e1rio root"
+        },
+        {
+            "location": "/Instalando o Fedora/#digite-a-senha-e-a-confirme-e-aperte-em-finalizado",
+            "text": "",
+            "title": "Digite a senha e a confirme e aperte em \"Finalizado\"."
+        },
+        {
+            "location": "/Instalando o Fedora/#finalmente-esta-na-hora-de-criar-um-usuario-para-voce-no-sistema-digite-seu-nome-completo-e-seu-nome-de-usuario-em-seguida-escolha-se-deseja-transformar-esse-usuario-em-administrador-do-sistema-e-se-e-necessario-uma-senha-para-acessar-essa-conta-o-que-e-recomendavel-em-seguida-aperte-em-finalizado",
+            "text": "",
+            "title": "Finalmente est\u00e1 na hora de criar um usu\u00e1rio para voc\u00ea no sistema. Digite seu nome completo e seu nome de usu\u00e1rio. Em seguida escolha se deseja transformar esse usu\u00e1rio em administrador do sistema e se \u00e9 necess\u00e1rio uma senha para acessar essa conta, o que \u00e9 recomend\u00e1vel. Em seguida aperte em \"Finalizado\"."
+        },
+        {
+            "location": "/Instalando o Fedora/#de-volta-a-tela-de-configuracao-aperte-em-finalizar-a-configuracao-e-aguarde-alguns-instantes",
+            "text": "",
+            "title": "De volta \u00e0 tela de \"Configura\u00e7\u00e3o\", aperte em \"Finalizar a configura\u00e7\u00e3o\" e aguarde alguns instantes."
+        },
+        {
+            "location": "/Instalando o Fedora/#pronto-agora-aperte-em-sair-para-comecar-a-usar-d",
+            "text": "",
+            "title": "Pronto!! Agora aperte em \"Sair\" para come\u00e7ar a usar! :D"
         },
         {
             "location": "/Instalando o Ubuntu/",
@@ -242,7 +322,7 @@
         },
         {
             "location": "/Proximos passos/",
-            "text": "Pr\u00f3ximos passos\n\n\nLinks interessantes\n\n\nQual distro escolher?\n\n\nProjeto que tem por objetivo ajudar a escolher uma distribui\u00e7\u00e3o Linux de acordo com o seu tipo de uso.\n\n\nLeia mais em: \nhttp://www.linuxdescomplicado.com.br/qual-distro-escolher/\n\n\nGuia Foca\n\n\nGuia que traz desde explica\u00e7\u00f5es b\u00e1sicas sobre computadores e o sistema GNU/Linux at\u00e9 a administra\u00e7\u00e3o e seguran\u00e7a do sistema. Os assuntos do guia s\u00e3o explicados em linguagem clara e organizados de forma linear e did\u00e1tica, evitando termos t\u00e9cnicos nos n\u00edveis iniciais, at\u00e9 que o usu\u00e1rio se habitue com sua utiliza\u00e7\u00e3o de forma gradual. \u00daltima vers\u00e3o lan\u00e7ada em 2010.\n\n\nBaixe o \nGuia iniciante\n\n\nIntroduction to Linux\n\n\nCurso de Introdu\u00e7\u00e3o ao Linux disponibilizado de gra\u00e7a pelo portal \nedX\n.\n\n\nSe inscreva em: \nhttps://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0\n\n\nLearn the Command line\n\n\nAprenda mais sobre linha de comando nesse curso b\u00e1sico do \nCodeAcademy\n\n\nSe inscreva em:[https://www.codecademy.com/pt/learn/learn-the-command-line] (https://www.codecademy.com/pt/learn/learn-the-command-line)",
+            "text": "Pr\u00f3ximos passos\n\n\nLinks interessantes\n\n\nQual distro escolher?\n\n\nProjeto que tem por objetivo ajudar a escolher uma distribui\u00e7\u00e3o Linux de acordo com o seu tipo de uso.\n\n\nLeia mais em: \nhttp://www.linuxdescomplicado.com.br/qual-distro-escolher/\n\n\nGuia Foca\n\n\nGuia que traz desde explica\u00e7\u00f5es b\u00e1sicas sobre computadores e o sistema GNU/Linux at\u00e9 a administra\u00e7\u00e3o e seguran\u00e7a do sistema. Os assuntos do guia s\u00e3o explicados em linguagem clara e organizados de forma linear e did\u00e1tica, evitando termos t\u00e9cnicos nos n\u00edveis iniciais, at\u00e9 que o usu\u00e1rio se habitue com sua utiliza\u00e7\u00e3o de forma gradual. \u00daltima vers\u00e3o lan\u00e7ada em 2010.\n\n\nBaixe o \nGuia iniciante\n\n\nIntroduction to Linux\n\n\nCurso de Introdu\u00e7\u00e3o ao Linux disponibilizado de gra\u00e7a pelo portal \nedX\n.\n\n\nSe inscreva em: \nhttps://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0\n\n\nLearn the Command line\n\n\nAprenda mais sobre linha de comando nesse curso b\u00e1sico do \nCodeAcademy\n\n\nSe inscreva em:\nhttps://www.codecademy.com/pt/learn/learn-the-command-line",
             "title": "Proximos passos"
         },
         {
@@ -272,7 +352,7 @@
         },
         {
             "location": "/Proximos passos/#learn-the-command-line",
-            "text": "Aprenda mais sobre linha de comando nesse curso b\u00e1sico do  CodeAcademy  Se inscreva em:[https://www.codecademy.com/pt/learn/learn-the-command-line] (https://www.codecademy.com/pt/learn/learn-the-command-line)",
+            "text": "Aprenda mais sobre linha de comando nesse curso b\u00e1sico do  CodeAcademy  Se inscreva em: https://www.codecademy.com/pt/learn/learn-the-command-line",
             "title": "Learn the Command line"
         }
     ]
