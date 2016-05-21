@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-05-20</lastmod>
+     <lastmod>2016-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
      <loc>None/Instalando o Fedora/</loc>
-     <lastmod>2016-05-20</lastmod>
+     <lastmod>2016-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
      <loc>None/Instalando o Ubuntu/</loc>
-     <lastmod>2016-05-20</lastmod>
+     <lastmod>2016-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
      <loc>None/Instalação Dual Boot/</loc>
-     <lastmod>2016-05-20</lastmod>
+     <lastmod>2016-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -36,7 +36,7 @@
     
     <url>
      <loc>None/Instalação Nativa/</loc>
-     <lastmod>2016-05-20</lastmod>
+     <lastmod>2016-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -44,7 +44,7 @@
     
     <url>
      <loc>None/Instalação Virtual Box/</loc>
-     <lastmod>2016-05-20</lastmod>
+     <lastmod>2016-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -52,7 +52,15 @@
     
     <url>
      <loc>None/Live USB Stick/</loc>
-     <lastmod>2016-05-20</lastmod>
+     <lastmod>2016-05-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/Proximos passos/</loc>
+     <lastmod>2016-05-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
     

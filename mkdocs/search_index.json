@@ -92,7 +92,7 @@
         },
         {
             "location": "/Instala\u00e7\u00e3o Dual Boot/",
-            "text": "Instala\u00e7\u00e3o em Dual Boot\n\n\nO que \u00e9 o Dual Boot?\n\n\nA instala\u00e7\u00e3o nativa permite que voc\u00ea mantenha dois sistemas operacionais no seu computador, assim voc\u00ea pode escolher qual voc\u00ea quer utilizar no momento de boot do computador, ou seja, na hora que o computador est\u00e1 ligando.\n\n\n\u00c9 uma boa op\u00e7\u00e3o para quem est\u00e1 em transi\u00e7\u00e3o para o GNU/Linux, mas n\u00e3o quer deixar de lado o Windows e as aplica\u00e7\u00f5es que costuma utilizar.\n\n\nComo come\u00e7ar\n\n\nPara instalar em dual boot, \u00e9 necess\u00e1rio que o seu computador tenha espa\u00e7o livre em HD para acomodar o GNU/Linux. Verifique com a distro desejada qual \u00e9 o espa\u00e7o necess\u00e1rio para esta. Geralmente, elas n\u00e3o precisam de muito.\n\n\nWindows\n\n\nMac\n\n\nPara instalar uma distribui\u00e7\u00e3o GNU/Linux em Dual Boot com o Mac, voc\u00ea deve criar uma parti\u00e7\u00e3o no seu computador. \n\n\n\n\n\n\nCrie uma parti\u00e7\u00e3o utilizando a aplica\u00e7\u00e3o Disk Utility. Ela deve ter no m\u00ednimo 30 GB.\n\n\n\n\n\n\nInsira o Live USB Stick e reinicie o seu Mac.\n\n\n\n\n\n\nSiga para a se\u00e7\u00e3o \"Instalando o Ubuntu\" ou \"Instalando o Fedora\"",
+            "text": "Instala\u00e7\u00e3o em Dual Boot\n\n\nO que \u00e9 o Dual Boot?\n\n\nA instala\u00e7\u00e3o nativa permite que voc\u00ea mantenha dois sistemas operacionais no seu computador, assim voc\u00ea pode escolher qual voc\u00ea quer utilizar no momento de boot do computador, ou seja, na hora que o computador est\u00e1 ligando.\n\n\n\u00c9 uma boa op\u00e7\u00e3o para quem est\u00e1 em transi\u00e7\u00e3o para o GNU/Linux, mas n\u00e3o quer deixar de lado o Windows e as aplica\u00e7\u00f5es que costuma utilizar.\n\n\nComo come\u00e7ar\n\n\nPara instalar em dual boot, \u00e9 necess\u00e1rio que o seu computador tenha espa\u00e7o livre em HD para acomodar o GNU/Linux. Verifique com a distro desejada qual \u00e9 o espa\u00e7o necess\u00e1rio para esta. Geralmente, elas n\u00e3o precisam de muito.\n\n\nWindows\n\n\n\n\n\n\nClique com o bot\u00e3o direito do mouse sobre o novo menu Iniciar. No menu que abriu, escolha a op\u00e7\u00e3o \u201cGerenciamento de Disco\u201d.\n\n\n\n\n\n\nNa janela que se abriu, voc\u00ea v\u00ea uma tela com informa\u00e7\u00f5es sobre disco r\u00edgido ou SSD instalado em seu PC. Clique com o bot\u00e3o direito do mouse sobre a parti\u00e7\u00e3o que deve ser redimensionada e ent\u00e3o selecione a op\u00e7\u00e3o \u201cDiminuir volume\u201d.\n\n\n\n\n\n\nNa tela que se abriu, analise as informa\u00e7\u00f5es e defina quanto ser\u00e1 reduzido desta parti\u00e7\u00e3o. Clique em \u201cDiminuir\u201d para confirmar e aguarde at\u00e9 que todo o processo seja conclu\u00eddo.\n\n\n\n\n\n\nPara aumentar uma parti\u00e7\u00e3o, clique sobre ela com o bot\u00e3o direito do mouse e ent\u00e3o v\u00e1 em \u201cEstender volume\u201d. Ent\u00e3o, \u00e9 s\u00f3 definir quanto ser\u00e1 aumentado e seguir o procedimento conforme exposto na tela de seu computador.\n\n\n\n\n\n\nFonte: [http://canaltech.com.br/tutorial/windows/como-redimensionar-particoes-no-windows-10/(http://canaltech.com.br/tutorial/windows/como-redimensionar-particoes-no-windows-10/)\n\n\nMac\n\n\nPara instalar uma distribui\u00e7\u00e3o GNU/Linux em Dual Boot com o Mac, voc\u00ea deve criar uma parti\u00e7\u00e3o no seu computador. \n\n\n\n\n\n\nCrie uma parti\u00e7\u00e3o utilizando a aplica\u00e7\u00e3o Disk Utility. Ela deve ter no m\u00ednimo 30 GB.\n\n\n\n\n\n\nInsira o Live USB Stick e reinicie o seu Mac.\n\n\n\n\n\n\nSiga para a se\u00e7\u00e3o \"Instalando o Ubuntu\" ou \"Instalando o Fedora\"",
             "title": "Instala\u00e7\u00e3o Dual Boot"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
             "location": "/Instala\u00e7\u00e3o Dual Boot/#windows",
-            "text": "",
+            "text": "Clique com o bot\u00e3o direito do mouse sobre o novo menu Iniciar. No menu que abriu, escolha a op\u00e7\u00e3o \u201cGerenciamento de Disco\u201d.    Na janela que se abriu, voc\u00ea v\u00ea uma tela com informa\u00e7\u00f5es sobre disco r\u00edgido ou SSD instalado em seu PC. Clique com o bot\u00e3o direito do mouse sobre a parti\u00e7\u00e3o que deve ser redimensionada e ent\u00e3o selecione a op\u00e7\u00e3o \u201cDiminuir volume\u201d.    Na tela que se abriu, analise as informa\u00e7\u00f5es e defina quanto ser\u00e1 reduzido desta parti\u00e7\u00e3o. Clique em \u201cDiminuir\u201d para confirmar e aguarde at\u00e9 que todo o processo seja conclu\u00eddo.    Para aumentar uma parti\u00e7\u00e3o, clique sobre ela com o bot\u00e3o direito do mouse e ent\u00e3o v\u00e1 em \u201cEstender volume\u201d. Ent\u00e3o, \u00e9 s\u00f3 definir quanto ser\u00e1 aumentado e seguir o procedimento conforme exposto na tela de seu computador.    Fonte: [http://canaltech.com.br/tutorial/windows/como-redimensionar-particoes-no-windows-10/(http://canaltech.com.br/tutorial/windows/como-redimensionar-particoes-no-windows-10/)",
             "title": "Windows"
         },
         {
@@ -239,6 +239,41 @@
             "location": "/Live USB Stick/#windows",
             "text": "1) Baixe o Rufus  aqui  2) Abra-o e selecione o seu pen drive no menu \"Device\"   3) Clique no \u00edcone do CD pr\u00f3ximo ao menu \"FreeDOS\", ent\u00e3o encontre a imagem ISO baixada e clique em \"Open\"   4) Clique em \"Yes\" quando perguntar sobre baixar o Syslinux software   5) Clique em OK para \"Write in ISO image mode\"    6) Confirme que o seu pendrive foi selecionado e OK para continuar   7) Seu Live USB Stick est\u00e1 pronto! :)   Fonte:  http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows",
             "title": "Windows"
+        },
+        {
+            "location": "/Proximos passos/",
+            "text": "Pr\u00f3ximos passos\n\n\nLinks interessantes\n\n\nQual distro escolher?\n\n\nProjeto que tem por objetivo ajudar a escolher uma distribui\u00e7\u00e3o Linux de acordo com o seu tipo de uso.\n\n\nLeia mais em: \nhttp://www.linuxdescomplicado.com.br/qual-distro-escolher/\n\n\nGuia Foca\n\n\nGuia que traz desde explica\u00e7\u00f5es b\u00e1sicas sobre computadores e o sistema GNU/Linux at\u00e9 a administra\u00e7\u00e3o e seguran\u00e7a do sistema. Os assuntos do guia s\u00e3o explicados em linguagem clara e organizados de forma linear e did\u00e1tica, evitando termos t\u00e9cnicos nos n\u00edveis iniciais, at\u00e9 que o usu\u00e1rio se habitue com sua utiliza\u00e7\u00e3o de forma gradual. \u00daltima vers\u00e3o lan\u00e7ada em 2010.\n\n\nBaixe o \nGuia iniciante\n\n\nIntroduction to Linux\n\n\nCurso de Introdu\u00e7\u00e3o ao Linux disponibilizado de gra\u00e7a pelo portal \nedX\n.\n\n\nSe inscreva em: \nhttps://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0\n\n\nLearn the Command line\n\n\nAprenda mais sobre linha de comando nesse curso b\u00e1sico do \nCodeAcademy\n\n\nSe inscreva em:[https://www.codecademy.com/pt/learn/learn-the-command-line] (https://www.codecademy.com/pt/learn/learn-the-command-line)",
+            "title": "Proximos passos"
+        },
+        {
+            "location": "/Proximos passos/#proximos-passos",
+            "text": "",
+            "title": "Pr\u00f3ximos passos"
+        },
+        {
+            "location": "/Proximos passos/#links-interessantes",
+            "text": "",
+            "title": "Links interessantes"
+        },
+        {
+            "location": "/Proximos passos/#qual-distro-escolher",
+            "text": "Projeto que tem por objetivo ajudar a escolher uma distribui\u00e7\u00e3o Linux de acordo com o seu tipo de uso.  Leia mais em:  http://www.linuxdescomplicado.com.br/qual-distro-escolher/",
+            "title": "Qual distro escolher?"
+        },
+        {
+            "location": "/Proximos passos/#guia-foca",
+            "text": "Guia que traz desde explica\u00e7\u00f5es b\u00e1sicas sobre computadores e o sistema GNU/Linux at\u00e9 a administra\u00e7\u00e3o e seguran\u00e7a do sistema. Os assuntos do guia s\u00e3o explicados em linguagem clara e organizados de forma linear e did\u00e1tica, evitando termos t\u00e9cnicos nos n\u00edveis iniciais, at\u00e9 que o usu\u00e1rio se habitue com sua utiliza\u00e7\u00e3o de forma gradual. \u00daltima vers\u00e3o lan\u00e7ada em 2010.  Baixe o  Guia iniciante",
+            "title": "Guia Foca"
+        },
+        {
+            "location": "/Proximos passos/#introduction-to-linux",
+            "text": "Curso de Introdu\u00e7\u00e3o ao Linux disponibilizado de gra\u00e7a pelo portal  edX .  Se inscreva em:  https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0",
+            "title": "Introduction to Linux"
+        },
+        {
+            "location": "/Proximos passos/#learn-the-command-line",
+            "text": "Aprenda mais sobre linha de comando nesse curso b\u00e1sico do  CodeAcademy  Se inscreva em:[https://www.codecademy.com/pt/learn/learn-the-command-line] (https://www.codecademy.com/pt/learn/learn-the-command-line)",
+            "title": "Learn the Command line"
         }
     ]
 }
